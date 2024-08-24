@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+   padding: 0;
+}
+body {
+    background-image:url(https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=alexander-shatov-_tF3vug2FhQ-unsplash.jpg) ;
+    background-size: cover;
+    overflow: hidden;
+    height: 100vh;
+    width:100vw;
+    background-color: cornflowerblue;
+    position: relative;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+ #cat { 
+    height: 500px;
+    width: 400px;
+    background-color:transparent;
+      border: 3px solid pink ;
+    font-weight: 900px;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+     text-decoration: underline; 
+    
+
+ }
+ #cat2 {
+    background-image: url(https://images.unsplash.com/photo-1501432377862-3d0432b87a14?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=ayo-ogunseinde-Erstoy-MuVA-unsplash.jpg);
+    background-size: cover;
+    position: absolute;
+    height: 100px;
+    width:100px ;
+    background-color: black;
+    border-radius: 90%;
+    margin-bottom: 270px;
+    margin-right: 280px; 
+    display: inline-block;
+    border: 4px solid red;
+    
+}
+ #cat3 {
+    background-image: url(https://images.unsplash.com/photo-1516446636564-c48e723868fc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=oliver-ragfelt-k2T6qI1ZK1k-unsplash.jpg);
+    background-size: cover;
+    position:absolute ;
+    height:100px ;
+    width:100px ;
+    background-color: black;
+    border-radius:90% ;
+    margin-right:50px ;
+    margin-bottom:270px ;
+    border: 4px solid red;
+     
+}
+
+#cat4 {
+    background-image: url(https://images.unsplash.com/photo-1597702383730-b93abf770373?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=unseen-histories-G2vxuMlATxA-unsplash.jpg);
+    background-size: cover;
+    position: absolute;
+    background-color: black;
+    height: 100px;
+    width:100px;
+    border-radius:90% ;
+    margin-right:-200px ;
+    margin-bottom:270px ;
+    border: 4px solid red;
+  
+}
+#cat5 {
+    position: absolute;
+    background-color: transparent;
+    height: 250px;
+    width: 350px;
+    margin-top: 130px;
+}
+
+
+
+
+
+
+
+ } 
